@@ -14,6 +14,6 @@ Gem::Specification.new do |s|
   s.add_dependency 'nokogiri', '~> 1.6', '>= 1.6.6.2'
   s.add_dependency 'ffi', '~> 1.9', '>= 1.9.10'
   s.add_dependency 'bundler', '~> 1.10', '>= 1.10.6'
-  s.required_ruby_version = '>= 2.1.7'
+  s.required_ruby_version = '>= 2.0.0'
   s.license = 'Apache 2.0'
 end
