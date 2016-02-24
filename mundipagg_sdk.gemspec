@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'nori', '~> 2.6', '>= 2.6.0'
   s.add_dependency 'gyoku', '~> 1.3', '>= 1.3.1'
   s.add_dependency 'nokogiri', '~> 1.6', '>= 1.6.6.2'
-  s.add_dependency 'ffi', '~> 1.9', '>= 1.9.10'
+  s.add_dependency 'ffi', '~> 1.9', '>= 1.9.6'
   s.add_dependency 'bundler', '~> 1.10', '>= 1.10.6'
   s.required_ruby_version = '>= 2.0.0'
   s.license = 'Apache 2.0'
